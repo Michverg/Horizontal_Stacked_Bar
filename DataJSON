@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "Gemeente": "Vlaams Gewest",
+    "Auto": 60,
+    "Fiets": 19,
+    "Openbaar vervoer": 16,
+    "Te voet": 2,
+    "Andere": 3
+  },
+  {
+    "id": 2,
+    "Gemeente": "13 centrumsteden",
+    "Auto": 46,
+    "Fiets": 29,
+    "Openbaar vervoer": 19,
+    "Te voet": 4,
+    "Andere": 2
+  },
+  {
+    "id": 3,
+    "Gemeente": "Aalst",
+    "Auto": 56,
+    "Fiets": 15,
+    "Openbaar vervoer": 25,
+    "Te voet": 3,
+    "Andere": 1
+  },
+  {
+    "id": 4,
+    "Gemeente": "Antwerpen",
+    "Auto": 39,
+    "Fiets": 32,
+    "Openbaar vervoer": 21,
+    "Te voet": 5,
+    "Andere": 3
+  },
+  {
+    "id": 5,
+    "Gemeente": "Brugge",
+    "Auto": 47,
+    "Fiets": 31,
+    "Openbaar vervoer": 16,
+    "Te voet": 3,
+    "Andere": 3
+  },
+  {
+    "id": 6,
+    "Gemeente": "Genk",
+    "Auto": 72,
+    "Fiets": 13,
+    "Openbaar vervoer": 10,
+    "Te voet": 3,
+    "Andere": 2
+  },
+  {
+    "id": 7,
+    "Gemeente": "Gent",
+    "Auto": 38,
+    "Fiets": 35,
+    "Openbaar vervoer": 21,
+    "Te voet": 3,
+    "Andere": 3
+  },
+  {
+    "id": 8,
+    "Gemeente": "Hasselt",
+    "Auto": 63,
+    "Fiets": 20,
+    "Openbaar vervoer": 12,
+    "Te voet": 3,
+    "Andere": 2
+  },
+  {
+    "id": 9,
+    "Gemeente": "Kortrijk",
+    "Auto": 61,
+    "Fiets": 23,
+    "Openbaar vervoer": 12,
+    "Te voet": 2,
+    "Andere": 2
+  },
+  {
+    "id": 10,
+    "Gemeente": "Leuven",
+    "Auto": 31,
+    "Fiets": 38,
+    "Openbaar vervoer": 24,
+    "Te voet": 6,
+    "Andere": 1
+  },
+  {
+    "id": 11,
+    "Gemeente": "Mechelen",
+    "Auto": 56,
+    "Fiets": 20,
+    "Openbaar vervoer": 21,
+    "Te voet": 2,
+    "Andere": 1
+  },
+  {
+    "id": 12,
+    "Gemeente": "Oostende",
+    "Auto": 46,
+    "Fiets": 27,
+    "Openbaar vervoer": 19,
+    "Te voet": 5,
+    "Andere": 3
+  },
+  {
+    "id": 13,
+    "Gemeente": "Roeselare",
+    "Auto": 63,
+    "Fiets": 21,
+    "Openbaar vervoer": 11,
+    "Te voet": 2,
+    "Andere": 3
+  },
+  {
+    "id": 14,
+    "Gemeente": "Sint-Niklaas",
+    "Auto": 50,
+    "Fiets": 24,
+    "Openbaar vervoer": 20,
+    "Te voet": 3,
+    "Andere": 3
+  },
+  {
+    "id": 15,
+    "Gemeente": "Turnhout",
+    "Auto": 49,
+    "Fiets": 32,
+    "Openbaar vervoer": 12,
+    "Te voet": 4,
+    "Andere": 3
+  }
+]
