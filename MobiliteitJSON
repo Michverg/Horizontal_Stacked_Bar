@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "gemeente": "Vlaams Gewest",
+    "type": "Auto",
+    "value": 60
+  },
+  {
+    "id": 1,
+    "gemeente": "Vlaams Gewest",
+    "type": "Fiets",
+    "value": 19
+  },
+  {
+    "id": 1,
+    "gemeente": "Vlaams Gewest",
+    "type": "Openbaar vervoer",
+    "value": 16
+  },
+  {
+    "id": 1,
+    "gemeente": "Vlaams Gewest",
+    "type": "Te voet",
+    "value": 2
+  },
+  {
+    "id": 1,
+    "gemeente": "Vlaams Gewest",
+    "type": "Andere",
+    "value": 3
+  },
+  {
+    "id": 2,
+    "gemeente": "13 centrumsteden",
+    "type": "Auto",
+    "value": 46
+  },
+  {
+    "id": 2,
+    "gemeente": "13 centrumsteden",
+    "type": "Fiets",
+    "value": 29
+  },
+  {
+    "id": 2,
+    "gemeente": "13 centrumsteden",
+    "type": "Openbaar vervoer",
+    "value": 19
+  },
+  {
+    "id": 2,
+    "gemeente": "13 centrumsteden",
+    "type": "Te voet",
+    "value": 4
+  },
+  {
+    "id": 2,
+    "gemeente": "13 centrumsteden",
+    "type": "Andere",
+    "value": 2
+  },
+  {
+    "id": 3,
+    "gemeente": "Aalst",
+    "type": "Auto",
+    "value": 56
+  },
+  {
+    "id": 3,
+    "gemeente": "Aalst",
+    "type": "Fiets",
+    "value": 15
+  },
+  {
+    "id": 3,
+    "gemeente": "Aalst",
+    "type": "Openbaar vervoer",
+    "value": 25
+  },
+  {
+    "id": 3,
+    "gemeente": "Aalst",
+    "type": "Te voet",
+    "value": 3
+  },
+  {
+    "id": 3,
+    "gemeente": "Aalst",
+    "type": "Andere",
+    "value": 1
+  },
+  {
+    "id": 4,
+    "gemeente": "Antwerpen",
+    "type": "Auto",
+    "value": 39
+  },
+  {
+    "id": 4,
+    "gemeente": "Antwerpen",
+    "type": "Fiets",
+    "value": 32
+  },
+  {
+    "id": 4,
+    "gemeente": "Antwerpen",
+    "type": "Openbaar vervoer",
+    "value": 21
+  },
+  {
+    "id": 4,
+    "gemeente": "Antwerpen",
+    "type": "Te voet",
+    "value": 5
+  },
+  {
+    "id": 4,
+    "gemeente": "Antwerpen",
+    "type": "Andere",
+    "value": 3
+  },
+  {
+    "id": 5,
+    "gemeente": "Brugge",
+    "type": "Auto",
+    "value": 47
+  },
+  {
+    "id": 5,
+    "gemeente": "Brugge",
+    "type": "Fiets",
+    "value": 31
+  },
+  {
+    "id": 5,
+    "gemeente": "Brugge",
+    "type": "Openbaar vervoer",
+    "value": 16
+  },
+  {
+    "id": 5,
+    "gemeente": "Brugge",
+    "type": "Te voet",
+    "value": 3
+  },
+  {
+    "id": 5,
+    "gemeente": "Brugge",
+    "type": "Andere",
+    "value": 3
+  },
+  {
+    "id": 6,
+    "gemeente": "Genk",
+    "type": "Auto",
+    "value": 72
+  },
+  {
+    "id": 6,
+    "gemeente": "Genk",
+    "type": "Fiets",
+    "value": 13
+  },
+  {
+    "id": 6,
+    "gemeente": "Genk",
+    "type": "Openbaar vervoer",
+    "value": 10
+  },
+  {
+    "id": 6,
+    "gemeente": "Genk",
+    "type": "Te voet",
+    "value": 3
+  },
+  {
+    "id": 6,
+    "gemeente": "Genk",
+    "type": "Andere",
+    "value": 2
+  },
+  {
+    "id": 7,
+    "gemeente": "Gent",
+    "type": "Auto",
+    "value": 38
+  },
+  {
+    "id": 7,
+    "gemeente": "Gent",
+    "type": "Fiets",
+    "value": 35
+  },
+  {
+    "id": 7,
+    "gemeente": "Gent",
+    "type": "Openbaar vervoer",
+    "value": 21
+  },
+  {
+    "id": 7,
+    "gemeente": "Gent",
+    "type": "Te voet",
+    "value": 3
+  },
+  {
+    "id": 7,
+    "gemeente": "Gent",
+    "type": "Andere",
+    "value": 3
+  },
+  {
+    "id": 8,
+    "gemeente": "Hasselt",
+    "type": "Auto",
+    "value": 63
+  },
+  {
+    "id": 8,
+    "gemeente": "Hasselt",
+    "type": "Fiets",
+    "value": 20
+  },
+  {
+    "id": 8,
+    "gemeente": "Hasselt",
+    "type": "Openbaar vervoer",
+    "value": 12
+  },
+  {
+    "id": 8,
+    "gemeente": "Hasselt",
+    "type": "Te voet",
+    "value": 3
+  },
+  {
+    "id": 8,
+    "gemeente": "Hasselt",
+    "type": "Andere",
+    "value": 2
+  },
+  {
+    "id": 9,
+    "gemeente": "Kortrijk",
+    "type": "Auto",
+    "value": 61
+  },
+  {
+    "id": 9,
+    "gemeente": "Kortrijk",
+    "type": "Fiets",
+    "value": 23
+  },
+  {
+    "id": 9,
+    "gemeente": "Kortrijk",
+    "type": "Openbaar vervoer",
+    "value": 12
+  },
+  {
+    "id": 9,
+    "gemeente": "Kortrijk",
+    "type": "Te voet",
+    "value": 2
+  },
+  {
+    "id": 9,
+    "gemeente": "Kortrijk",
+    "type": "Andere",
+    "value": 2
+  },
+  {
+    "id": 10,
+    "gemeente": "Leuven",
+    "type": "Auto",
+    "value": 31
+  },
+  {
+    "id": 10,
+    "gemeente": "Leuven",
+    "type": "Fiets",
+    "value": 38
+  },
+  {
+    "id": 10,
+    "gemeente": "Leuven",
+    "type": "Openbaar vervoer",
+    "value": 24
+  },
+  {
+    "id": 10,
+    "gemeente": "Leuven",
+    "type": "Te voet",
+    "value": 6
+  },
+  {
+    "id": 10,
+    "gemeente": "Leuven",
+    "type": "Andere",
+    "value": 1
+  },
+  {
+    "id": 11,
+    "gemeente": "Mechelen",
+    "type": "Auto",
+    "value": 56
+  },
+  {
+    "id": 11,
+    "gemeente": "Mechelen",
+    "type": "Fiets",
+    "value": 20
+  },
+  {
+    "id": 11,
+    "gemeente": "Mechelen",
+    "type": "Openbaar vervoer",
+    "value": 21
+  },
+  {
+    "id": 11,
+    "gemeente": "Mechelen",
+    "type": "Te voet",
+    "value": 2
+  },
+  {
+    "id": 11,
+    "gemeente": "Mechelen",
+    "type": "Andere",
+    "value": 1
+  },
+  {
+    "id": 12,
+    "gemeente": "Oostende",
+    "type": "Auto",
+    "value": 46
+  },
+  {
+    "id": 12,
+    "gemeente": "Oostende",
+    "type": "Fiets",
+    "value": 27
+  },
+  {
+    "id": 12,
+    "gemeente": "Oostende",
+    "type": "Openbaar vervoer",
+    "value": 19
+  },
+  {
+    "id": 12,
+    "gemeente": "Oostende",
+    "type": "Te voet",
+    "value": 5
+  },
+  {
+    "id": 12,
+    "gemeente": "Oostende",
+    "type": "Andere",
+    "value": 3
+  },
+  {
+    "id": 13,
+    "gemeente": "Roeselare",
+    "type": "Auto",
+    "value": 46
+  },
+  {
+    "id": 13,
+    "gemeente": "Roeselare",
+    "type": "Fiets",
+    "value": 27
+  },
+  {
+    "id": 13,
+    "gemeente": "Roeselare",
+    "type": "Openbaar vervoer",
+    "value": 19
+  },
+  {
+    "id": 13,
+    "gemeente": "Roeselare",
+    "type": "Te voet",
+    "value": 5
+  },
+  {
+    "id": 13,
+    "gemeente": "Roeselare",
+    "type": "Andere",
+    "value": 3
+  },
+  {
+    "id": 14,
+    "gemeente": "Sint-Niklaas",
+    "type": "Auto",
+    "value": 50
+  },
+  {
+    "id": 14,
+    "gemeente": "Sint-Niklaas",
+    "type": "Fiets",
+    "value": 24
+  },
+  {
+    "id": 14,
+    "gemeente": "Sint-Niklaas",
+    "type": "Openbaar vervoer",
+    "value": 20
+  },
+  {
+    "id": 14,
+    "gemeente": "Sint-Niklaas",
+    "type": "Te voet",
+    "value": 3
+  },
+  {
+    "id": 14,
+    "gemeente": "Sint-Niklaas",
+    "type": "Andere",
+    "value": 3
+  },
+  {
+    "id": 15,
+    "gemeente": "Turnhout",
+    "type": "Auto",
+    "value": 49
+  },
+  {
+    "id": 15,
+    "gemeente": "Turnhout",
+    "type": "Fiets",
+    "value": 32
+  },
+  {
+    "id": 15,
+    "gemeente": "Turnhout",
+    "type": "Openbaar vervoer",
+    "value": 12
+  },
+  {
+    "id": 15,
+    "gemeente": "Turnhout",
+    "type": "Te voet",
+    "value": 4
+  },
+  {
+    "id": 15,
+    "gemeente": "Turnhout",
+    "type": "Andere",
+    "value": 3
+  }
+]
